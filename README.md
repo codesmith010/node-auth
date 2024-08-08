@@ -33,7 +33,7 @@ This project provides an API for storing a public key and verifying a signed mes
    node server.js your-password
    ```
 
-   Replace `your-password` with a password of your choice. This password will be hashed and stored in the MongoDB database.
+   Replace `your-password` with a password of your choice.
 
 ## Assumptions
 
